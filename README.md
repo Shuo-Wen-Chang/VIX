@@ -22,6 +22,6 @@ In total 6 files are available here:
 
   |- 2019UST_Yield.csv: historical UST yield curve during the period 2019/01/02 ~ 2019/06/28. [source](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202405)
 
-  |- option_price.csv: option data from Wrds. [source](https://wrds-www.wharton.upenn.edu/)
+  |- option_price.csv: edited option data from Wrds, I shrinked it down under the premise of not affecting results. [source](https://wrds-www.wharton.upenn.edu/)
 
   |- vixts.csv: output of (Johnson 2017)'s. I got this data from course lecturer, guess it's from the author of (Johnson 2017).
