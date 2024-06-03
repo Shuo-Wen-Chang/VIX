@@ -24,4 +24,4 @@ In total 6 files are available here:
 
   |- option_price.csv: option data from Wrds. [source](https://wrds-www.wharton.upenn.edu/)
 
-  |- vixts.csv: output of (Johnson 2017)'s. I got this data from course lecturer, guess it's from the author of the (Johnson 2017) paper.
+  |- vixts.csv: output of (Johnson 2017)'s. I got this data from course lecturer, guess it's from the author of (Johnson 2017).
