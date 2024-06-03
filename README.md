@@ -17,7 +17,11 @@ In total 6 files are available here:
 
 **Data**
 - VIX related data.zip
+
 |- ^VIX.csv: historical VIX market data during the period 2019/01/02 ~ 2019/06/28. [source](https://www.investing.com/indices/us-spx-500-historical-data)
+
 |- 2019UST_Yield.csv: historical UST yield curve during the period 2019/01/02 ~ 2019/06/28. [source](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202405)
+
 |- option_price.csv: option data from Wrds. [source](https://wrds-www.wharton.upenn.edu/)
+
 |- vixts.csv: output of (Johnson 2017)'s methodology. I got this data from course lecturer, guess it's from the author of the (Johnson 2017) paper.
