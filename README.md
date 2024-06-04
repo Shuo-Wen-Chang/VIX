@@ -1,7 +1,7 @@
 # VIX
 This is a project directory regarding demonstration of recreating VIX index following CBOE's manual and methodology within period of 2019/01/02 ~ 2019/06/28.
 
-In total 6 files are available here:
+In total 7 files are available here:
 
 **Demonstration**
 - _README.md: Also known as this file, serves as a demonstration of this directory.
