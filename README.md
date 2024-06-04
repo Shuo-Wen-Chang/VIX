@@ -18,7 +18,7 @@ In total 7 files are available here:
 **Data**
 - VIX related data.zip
 
-  |- ^VIX.csv: historical VIX market data during the period 2019/01/02 ~ 2019/06/28. [source](https://www.investing.com/indices/us-spx-500-historical-data)
+  |- ^VIX.csv: historical VIX market data during the period 2019/01/02 ~ 2019/06/28. [source](https://finance.yahoo.com/quote/%5EVIX/history/)
 
   |- 2019UST_Yield.csv: historical UST yield curve during the period 2019/01/02 ~ 2019/06/28. [source](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202405)
 
