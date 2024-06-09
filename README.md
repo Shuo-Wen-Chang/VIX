@@ -10,7 +10,7 @@ In total 7 files are available here:
 
 **Code**
 - VIX.ipynb: code file in a markdown-display fashion. I added some traditional Chinese descriptions and comments within this script, which might arise encoding issue if you were trying to understand the comments. In this case, 'UTF-8' is the encoding style that works.
-- VIX.py: code file: classic python script, yet traditional Chinese comments exist within this script. If you're only interested in the code then feel free to ignore them.
+- VIX.py: classic python script, yet traditional Chinese comments exist within this script. If you're only interested in the code then feel free to ignore them.
 
 **Documentations**
 - Cboe_Volatility_Index_Mathematics_Methodology.pdf: [source](https://cdn.cboe.com/api/global/us_indices/governance/VIX_Methodology.pdf)
