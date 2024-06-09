@@ -1,5 +1,7 @@
 # VIX
-This is a project directory regarding demonstration of recreating VIX index following CBOE's manual and methodology within period of 2019/01/02 ~ 2019/06/28.
+This is a project directory regarding demonstration of recreating VIX index guided by CBOE's manual and methodology within period of 2019/01/02 ~ 2019/06/28.
+
+Wrote a Mandarin article regarding this subject on Medium: [source](https://medium.com/@oscar0936330161/與實際資料相關性-99-67-vix-實作背後的技術揭秘-0a705f821550)
 
 In total 7 files are available here:
 
