@@ -6,7 +6,7 @@ Wrote a Mandarin article regarding this subject on Medium: [source](https://medi
 In total 7 files are available here:
 
 **Demonstration**
-- _README.md: Also known as this file, serves as a demonstration of this directory.
+- README.md: Also known as this file, serves as a demonstration of this directory.
 
 **Code**
 - VIX.ipynb: code file in a markdown-display fashion. I added some traditional Chinese descriptions and comments within this script, which might arise encoding issue if you were trying to understand the comments. In this case, 'UTF-8' is the encoding style that works.
